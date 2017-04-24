@@ -4,7 +4,7 @@ public class Pessoa {
 
     private Integer idade;
     
-    private String nome;
+    private String nome2;
 
     public Integer getIdade() {
         return idade;
@@ -15,11 +15,11 @@ public class Pessoa {
     }
     
     public String getNome() {
-        return nome;
+        return nome2;
     }
 
     public void setNome(String nome) {
-        this.nome = nome;
+        this.nome2 = nome;
     }
 
     @Override
